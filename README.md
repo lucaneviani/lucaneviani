@@ -1,20 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Luca Neviani — Data Scientist in the making" width="100%"/>
+</p>
 
-# Luca Neviani
+<p align="center">
+Padua, Italy · <a href="https://linkedin.com/in/luca-neviani-97a146205">LinkedIn</a> · <a href="mailto:lucaneviani01@gmail.com">Email</a> · <a href="https://github.com/lucaneviani">GitHub</a>
+</p>
 
-Data Scientist in the making — Applied Economics background, Python-first, learning by building.
-
-Padua, Italy · [LinkedIn](https://linkedin.com/in/luca-neviani-97a146205) · [Email](mailto:lucaneviani01@gmail.com) · [GitHub](https://github.com/lucaneviani)
-
-</div>
-
----
+<img src="assets/divider.svg" width="100%"/>
 
 I'm finishing an MSc in Applied Economics (Economic Data Analytics track) at the University of Padua, with a semester at the University of Cyprus. My background is in econometrics and causal inference, but over the past year I've moved deeper into machine learning — mostly by building things rather than just reading about them: an autonomous trading system on top of an open-source LLM-agent framework, a Kaggle-trained model for Numerai, and a fine-tuned speech recognition model for children's voices.
 
 I'm currently looking for a **Junior Data Scientist / Data Analyst** role where I can keep learning on the job.
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## Projects
 
@@ -49,7 +47,7 @@ Expanded a georeferenced economic dataset with NASA/ESA satellite data via APIs,
 Tech: Python, QGIS, Econometrics
 *(repo in preparazione — link in arrivo)*
 
----
+<img src="assets/divider.svg" width="100%"/>
 
 ## Tech Stack
 
@@ -58,8 +56,8 @@ Tech: Python, QGIS, Econometrics
 **Visualization** — Power BI, Plotly, Seaborn
 **Tools** — Git, Docker, FastAPI, SQLite, Kaggle, LaTeX, VS Code
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneviani&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneviani&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
+</p>
