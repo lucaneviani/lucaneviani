@@ -12,7 +12,7 @@ Padua, Italy · <a href="https://linkedin.com/in/luca-neviani-97a146205">LinkedI
 
 ---
 
-MSc in Economic Data Analytics at the University of Padua, with a semester at the University of Cyprus. My background is in econometrics and causal inference, but over the past year I've moved deeper into machine learning — mostly by building things rather than just reading about them.
+I'm finishing an MSc in Applied Economics (Economic Data Analytics track) at the University of Padua, with a semester at the University of Cyprus. My background is in econometrics and causal inference, but over the past year I've moved deeper into machine learning — mostly by building things rather than just reading about them.
 
 I'm currently looking for a **Junior Data Scientist / Data Analyst** role where I can keep learning on the job.
 
@@ -51,16 +51,18 @@ Complete ML pipeline for Numerai's Crypto tournament: feature engineering (momen
 <tr>
 <td width="50%" valign="top">
 
-### Whisper Fine-Tuning  <sub>(in progress)</sub>
-**Children's Speech Recognition**
+### Google Waxal ASR  <sub>(live)</sub>
+**Qwen3-ASR 1.7B Fine-Tuning**
 
-Fine-tuned OpenAI's open-source Whisper on children's speech (ages 4–11) — the base model, trained mostly on adult voices, struggles with noisy, high-pitched child speech. Trained and evaluated on Kaggle.
+Fine-tuned **Qwen3-ASR (1.7B params)** for the Zindi Google Waxal Challenge, adapting a state-of-the-art speech model to transcribe three underrepresented African languages — Luganda, Shona, and Lingala — with very limited labeled data.
 
-Word Error Rate: **[prima]% → [dopo]%** *(numeri da aggiungere)*
+- Used **LoRA (PEFT)** to train only ~1.8% of the model's weights, cutting GPU memory needs by over 80% versus full fine-tuning
+- Built a full audio/text preprocessing pipeline (16kHz resampling, transcript cleaning) and evaluated with Word Error Rate and Character Error Rate
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/HF_Transformers-FFD21E?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LoRA_%2F_PEFT-8b5cf6?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Librosa-4051b5?style=flat-square" height="20"/>
 
-<sub>repo in preparazione — link in arrivo</sub>
+[View Repository →](https://github.com/lucaneviani/google-waxal-asr-challenge)
+<sub>[interactive case study →](https://lucaneviani.github.io/google-waxal-asr-challenge/)</sub>
 
 </td>
 <td width="50%" valign="top">
