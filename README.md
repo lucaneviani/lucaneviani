@@ -4,13 +4,16 @@
 ### Data Science • Machine Learning • Econometrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▪%20Core%20Focus-Data%20Science%20%26%20Analytics-000000?style=for-the-badge&border=333333" />
-  <img src="https://img.shields.io/badge/▪%20Core%20Focus-Machine%20Learning%20%26%20AI-000000?style=for-the-badge&border=333333" />
-  <img src="https://img.shields.io/badge/▪%20Core%20Focus-Econometrics%20%26%20Causal%20Inference-000000?style=for-the-badge&border=333333" />
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-000000?style=for-the-badge&border=333333" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-000000?style=for-the-badge&border=333333" />
+  <img src="https://img.shields.io/badge/Econometrics%20%26%20Causal%20Inference-000000?style=for-the-badge&border=333333" />
 </p>
 
 <p align="center">
-  ▪ <b>Padua, Italy</b> &nbsp;•&nbsp; ▪ <a href="https://linkedin.com/in/luca-neviani-97a146205"><b>LinkedIn</b></a> &nbsp;•&nbsp; ▪ <a href="mailto:lucaneviani01@gmail.com"><b>Email</b></a> &nbsp;•&nbsp; ▪ <a href="https://github.com/lucaneviani"><b>GitHub</b></a>
+  <a href="https://linkedin.com/in/luca-neviani-97a146205"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=333333" /></a>
+  <a href="mailto:lucaneviani01@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&border=333333" /></a>
+  <a href="https://github.com/lucaneviani"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&border=333333" /></a>
+  <img src="https://img.shields.io/badge/Padua%2C%20Italy-000000?style=for-the-badge&logo=googlemaps&logoColor=white&border=333333" />
 </p>
 
 </div>
@@ -26,13 +29,23 @@ I am currently seeking a **Junior Data Scientist / Data Analyst** role in a dyna
 
 ---
 
+### // Core Technical Methodology
+
+```mermaid
+flowchart LR
+    A["Data Processing & Feature Engineering<br><i>Spatial Panel Data, Time-Series, Audio Preprocessing, APIs</i>"] --> B["Algorithmic Modeling & Causal Inference<br><i>Econometric DiD, LightGBM, PEFT / LoRA, Multi-Agent Systems</i>"]
+    B --> C["Evaluation & Production Deployment<br><i>Statistical Inference, Backtesting, Automated Pipelines, Docker</i>"]
+```
+
+---
+
 ## // My Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ▪ Google Waxal ASR <sub>(live)</sub>
+### Google Waxal ASR <sub>(live)</sub>
 **Qwen3-ASR 1.7B Fine-Tuning**
 
 Fine-tuned **Qwen3-ASR (1.7B params)** for the Zindi Google Waxal Challenge, adapting a state-of-the-art speech model to transcribe three underrepresented African languages—Luganda, Shona, and Lingala—with very limited labeled data.
@@ -49,7 +62,7 @@ Fine-tuned **Qwen3-ASR (1.7B params)** for the Zindi Google Waxal Challenge, ada
 </td>
 <td width="50%" valign="top">
 
-### ▪ Causal Impact: Satellite Data <sub>(live)</sub>
+### Causal Impact: Satellite Data <sub>(live)</sub>
 **Renewable Energy Plants in Africa**
 
 Designed and deployed an automated geospatial ETL pipeline combining NASA & ESA Earth observation imagery with RePP Africa georeferenced data to isolate the causal environmental and economic footprint of solar and wind power plants.
@@ -68,7 +81,7 @@ Designed and deployed an automated geospatial ETL pipeline combining NASA & ESA 
 <tr>
 <td width="50%" valign="top">
 
-### ▪ TradingAgents Plus <sub>(live)</sub>
+### TradingAgents Plus <sub>(live)</sub>
 **Autonomous Multi-Agent Trading System**
 
 Extension of Tauric Research's open-source **TradingAgents** framework, transformed into a fully autonomous, production-grade trading pipeline with daily orchestration, portfolio tracking, real-time risk management, and automated broker execution.
@@ -83,7 +96,7 @@ Extension of Tauric Research's open-source **TradingAgents** framework, transfor
 </td>
 <td width="50%" valign="top">
 
-### ▪ Numerai Crypto <sub>(live)</sub>
+### Numerai Crypto <sub>(live)</sub>
 **LightGBM Tournament Model**
 
 End-to-end machine learning pipeline for Numerai's Crypto quantitative tournament: feature engineering (momentum, volatility, RSI, cross-sectional rankings), a date-aware LightGBM regressor, and automated weekly predictions submitted via the Numerai API.
@@ -112,5 +125,6 @@ End-to-end machine learning pipeline for Numerai's Crypto quantitative tournamen
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneviani&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaneviani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneviani&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150"/>
 </p>
