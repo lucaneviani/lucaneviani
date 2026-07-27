@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Econometrics,+Machine+Learning,+Data+Science;Geospatial+Data+Engineering+%26+Causal+Inference;Building+Autonomous+Multi-Agent+LLM+Systems;Audio+%26+NLP+Model+Fine-Tuning+(LoRA+%2F+PEFT)" alt="typing animation"/>
+  <img src="https://img.shields.io/badge/📊%20Core%20Focus-Data%20Science%20%26%20Analytics-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖%20Core%20Focus-Machine%20Learning%20%26%20AI-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈%20Core%20Focus-Econometrics%20%26%20Causal%20Inference-0D1117?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -12,9 +14,11 @@
 
 ---
 
-I recently completed my **MSc in Applied Economics** (*Economic Data Analytics track*) at the **University of Padua**, with an exchange semester at the University of Cyprus. With a strong quantitative background in **econometrics and causal inference**, over the past year I have moved deeply into **machine learning, geospatial analytics, and AI systems development**—focusing on building end-to-end, production-ready pipelines rather than theoretical exercises.
+I recently completed my **MSc in Applied Economics** (*Economic Data Analytics track*) at the **University of Padua**. Grounded in a strong quantitative background in **economics, advanced econometrics, and causal inference**, over the past year my passion has shifted deeply toward **Data Science, Machine Learning, and AI systems development**.
 
-I am currently looking for a **Junior Data Scientist / Quantitative Analyst** role where I can tackle complex data challenges, ship real-world models, and continuously learn on the job.
+Fascinated by the inner workings of modern artificial intelligence and algorithmic modeling, I am a strong believer in the **"learn by doing"** philosophy. Rather than confining myself to theory, I have actively challenged myself to design and deploy complete, hands-on projects—ranging from autonomous multi-agent trading systems and tournament ML regressors to geospatial satellite data pipelines and LLM speech fine-tuning.
+
+I am currently looking for a **Junior Data Scientist / Data Analyst** position in a dynamic, forward-thinking environment. I highly value the opportunity to expand my technical stack and continuously learn new skills; I am looking for a cutting-edge team where I can gain hands-on experience solving complex data challenges while staying updated on the latest advancements in data science and AI.
 
 ---
 
