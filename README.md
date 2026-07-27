@@ -1,28 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Luca%20Neviani&fontSize=32&fontColor=f0f6fc&fontFamily=Inter&desc=Quantitative%20Data%20Scientist%20%26%20Applied%20Econometrician&descAlignY=66&descSize=15&descColor=58a6ff" width="100%"/>
-</p>
+<div align="center">
+
+# Luca Neviani
+### Data Science • Machine Learning • Econometrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📊%20Core%20Focus-Data%20Science%20%26%20Analytics-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖%20Core%20Focus-Machine%20Learning%20%26%20AI-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈%20Core%20Focus-Econometrics%20%26%20Causal%20Inference-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=FBA919" />
+  <img src="https://img.shields.io/badge/Econometrics%20%26%20Causal%20Inference-0D1117?style=for-the-badge&logo=stata&logoColor=4ADE80" />
 </p>
 
 <p align="center">
   📍 <b>Padua, Italy</b> &nbsp;•&nbsp; 💼 <a href="https://linkedin.com/in/luca-neviani-97a146205"><b>LinkedIn</b></a> &nbsp;•&nbsp; 📧 <a href="mailto:lucaneviani01@gmail.com"><b>Email</b></a> &nbsp;•&nbsp; 🐙 <a href="https://github.com/lucaneviani"><b>GitHub</b></a>
 </p>
 
----
-
-I recently completed my **MSc in Applied Economics** (*Economic Data Analytics track*) at the **University of Padua**. Grounded in a strong quantitative background in **economics, advanced econometrics, and causal inference**, over the past year my passion has shifted deeply toward **Data Science, Machine Learning, and AI systems development**.
-
-Fascinated by the inner workings of modern artificial intelligence and algorithmic modeling, I am a strong believer in the **"learn by doing"** philosophy. Rather than confining myself to theory, I have actively challenged myself to design and deploy complete, hands-on projects—ranging from autonomous multi-agent trading systems and tournament ML regressors to geospatial satellite data pipelines and LLM speech fine-tuning.
-
-I am currently looking for a **Junior Data Scientist / Data Analyst** position in a dynamic, forward-thinking environment. I highly value the opportunity to expand my technical stack and continuously learn new skills; I am looking for a cutting-edge team where I can gain hands-on experience solving complex data challenges while staying updated on the latest advancements in data science and AI.
+</div>
 
 ---
 
-## 🔬 Featured Projects
+MSc in **Economic Data Analytics** (*Applied Economics*), **University of Padua**.  
+Quantitative background in economics, advanced econometrics, and causal inference. Over the past two years, my focus has shifted toward **Data Science, Machine Learning, and AI systems**.
+
+I am a strong believer in learning by doing, focusing on building and deploying hands-on, end-to-end projects—from autonomous multi-agent systems and ML tournament regressors to geospatial data pipelines and LLM fine-tuning.
+
+I am currently seeking a **Junior Data Scientist / Data Analyst** role in a dynamic environment where I can tackle complex data challenges, ship real-world models, and continuously grow my technical skills on the job.
+
+---
+
+## My Projects
 
 <table width="100%">
 <tr>
