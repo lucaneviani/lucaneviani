@@ -31,15 +31,6 @@ My work focuses on understanding complex datasets, developing appropriate modeli
 
 I am currently seeking a **Data Scientist / Business Analyst** role in a dynamic environment where I can tackle complex data challenges, ship real-world models, and continuously grow my technical skills on the job.
 
----
-
-### // My technical Methodology
-
-```mermaid
-flowchart LR
-    A["Data Processing & Feature Engineering<br><i>Spatial Panel Data, Time-Series, Audio Preprocessing, APIs</i>"] --> B["Algorithmic Modeling & Causal Inference<br><i>Econometric DiD, LightGBM, PEFT / LoRA, Multi-Agent Systems</i>"]
-    B --> C["Evaluation & Production Deployment<br><i>Statistical Inference, Backtesting, Automated Pipelines, Docker</i>"]
-```
 
 ---
 
@@ -61,8 +52,20 @@ Fine-tuned the open-source **Qwen3-ASR (1.7B params)** speech recognitioning mod
 <br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LoRA_%2F_PEFT-111111?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Librosa-111111?style=flat-square" height="20"/>
 
-<br><br>
-[**View Repository →**](https://github.com/lucaneviani/google-waxal-asr-challenge) &nbsp;|&nbsp; <sub>[Interactive Case Study →](https://lucaneviani.github.io/google-waxal-asr-challenge/)</sub>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/lucaneviani/google-waxal-asr-challenge">
+<img src="https://img.shields.io/badge/_Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://lucaneviani.github.io/google-waxal-asr-challenge/">
+<img src="https://img.shields.io/badge/_View_The_Case_Study-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -79,8 +82,15 @@ Research project developed in collaboration with the University of Padua, invest
 <br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-111111?style=flat-square&logo=google&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GeoPandas-111111?style=flat-square&logo=pandas&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/R-111111?style=flat-square&logo=r&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Econometrics-111111?style=flat-square" height="20"/>
 
-<br><br>
-[**View Repository →**](https://github.com/lucaneviani/Geospatial-Analysis-of-Renewable-Energy-Power-Plants-using-Satellite-Data)
+<br>
+
+<p align="center">
+
+<a href="https://github.com/lucaneviani/Geospatial-Analysis-of-Renewable-Energy-Power-Plants-using-Satellite-Data">
+<img src="https://img.shields.io/badge/_Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </td>
 </tr>
@@ -98,9 +108,19 @@ Extended Tauric Research's open-source TradingAgents framework, where specialize
 <br><br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LLM_Agents-111111?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white" height="20"/>
 
-<br><br>
-[**View Repository →**](https://github.com/lucaneviani/MultiAgent-Research-System)  
-<sub>Builds on [TradingAgents](https://github.com/TauricResearch/TradingAgents) by Tauric Research</sub>
+<br>
+
+<p align="center">
+
+<a href="https://github.com/lucaneviani/MultiAgent-Research-System">
+<img src="https://img.shields.io/badge/_Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<sub>Built on <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents</a> by Tauric Research</sub>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -119,20 +139,34 @@ Participated in Numerai, a global data science tournament where participants bui
 <br><br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LightGBM-111111?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Numerai_API-111111?style=flat-square" height="20"/>
 
-<br><br>
-[**View Repository →**](https://github.com/lucaneviani/Numerai-crypto-tournament-lightgbm-model)
+<br>
+
+<p align="center">
+
+<a href="https://github.com/lucaneviani/Numerai-crypto-tournament-lightgbm-model">
+<img src="https://img.shields.io/badge/_Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </td>
 </tr>
 </table>
 
 ---
+### // My technical Methodology
+
+```mermaid
+flowchart LR
+    A["Data Processing & Feature Engineering<br><i>Spatial Panel Data, Time-Series, Audio Preprocessing, APIs</i>"] --> B["Algorithmic Modeling & Causal Inference<br><i>Econometrics, LightGBM, PEFT / LoRA, Multi-Agent Systems</i>"]
+    B --> C["Evaluation & Production Deployment<br><i>Statistical Inference, Backtesting /i>"]
+```
 
 ## // Tech Stack & Competencies
 
 | Category | Technologies & Tools |
 |---|---|
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-111111?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-111111?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white) |
 | **ML & Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-111111?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white) |
 | **Geospatial & Econometrics** | ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-111111?style=flat-square&logo=google&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-111111?style=flat-square&logo=pandas&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-111111?style=flat-square&logo=qgis&logoColor=white) ![Causal Inference](https://img.shields.io/badge/Causal%20Inference-111111?style=flat-square) |
 | **Eng & Visualization** | ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logo=powerbi&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-111111?style=flat-square&logo=plotly&logoColor=white) |
