@@ -21,11 +21,15 @@
 ---
 
 MSc in **Economic Data Analytics** (*Applied Economics*), **University of Padua**.  
-Quantitative background in economics, advanced econometrics, and causal inference. Over the past two years, my focus has shifted toward **Data Science, Machine Learning, and AI systems**.
+BSc in **Business Administration and Management**, **Ca' Foscari University of Venice**.
 
-I am a strong believer in learning by doing, focusing on building and deploying hands-on, end-to-end projects—from autonomous multi-agent systems and ML tournament regressors to geospatial data pipelines and LLM fine-tuning.
+Quantitative background in economics, advanced econometrics, and causal inference. Over the past two years, my focus has shifted toward **Data Science, Machine Learning, and AI systems**, developing these skills through both academic work and personal projects, research, and real-world applications.
 
-I am currently seeking a **Junior Data Scientist / Data Analyst** role in a dynamic environment where I can tackle complex data challenges, ship real-world models, and continuously grow my technical skills on the job.
+I am a strong believer in learning by doing, focusing on building and deploying end-to-end projects: I am passionate about researching and developing machine learning systems, ranging from LLM and speech model fine-tuning to autonomous agents, causal inference, and scalable data pipelines. 
+
+My work focuses on understanding complex datasets, developing appropriate modeling approaches, and applying quantitative methods to extract meaningful insights and solve problems.
+
+I am currently seeking a **Data Scientist / Business Analyst** role in a dynamic environment where I can tackle complex data challenges, ship real-world models, and continuously grow my technical skills on the job.
 
 ---
 
