@@ -1,7 +1,7 @@
 <div align="center">
 
 # Luca Neviani
-### Data Science • Machine Learning • Econometrics
+### Data Scientist
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-000000?style=for-the-badge&border=333333" />
@@ -33,7 +33,7 @@ I am currently seeking a **Data Scientist / Business Analyst** role in a dynamic
 
 ---
 
-### // Core Technical Methodology
+### // My technical Methodology
 
 ```mermaid
 flowchart LR
@@ -52,10 +52,11 @@ flowchart LR
 ### Google Waxal ASR <sub>(live)</sub>
 **Qwen3-ASR 1.7B Fine-Tuning**
 
-Fine-tuned **Qwen3-ASR (1.7B params)** for the Zindi Google Waxal Challenge, adapting a state-of-the-art speech model to transcribe three underrepresented African languages—Luganda, Shona, and Lingala—with very limited labeled data.
+Fine-tuned the open-source **Qwen3-ASR (1.7B params)** speech recognitioning model for the Zindi Google Waxal Challenge, adapting it to transcribe three underrepresented African languages: Luganda, Shona, and Lingala. 
 
-- Used **LoRA (PEFT)** to train only ~1.8% of the model's weights, cutting GPU memory needs by >80% versus full fine-tuning.
-- Built an end-to-end audio/text preprocessing pipeline (16kHz resampling, transcript normalization) and evaluated via WER and CER.
+- Applied LoRA, a fine-tuning technique, to update only a small subset of trainable parameters instead of retraining the entire model.
+- Built an end-to-end audio processing pipeline including 16kHz resampling, audio normalization, and transcript preprocessing, preparing multilingual speech data for model training and evaluation.
+- Improved ASR performance substantially, reducing Word Error Rate (WER) from 84.5% (zero-shot base model) to 18.2% after LoRA fine-tuning, and Character Error Rate (CER) from 68.0% to 6.4%.
 
 <br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LoRA_%2F_PEFT-111111?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Librosa-111111?style=flat-square" height="20"/>
@@ -73,7 +74,7 @@ Research project developed in collaboration with the University of Padua, invest
 
 - Built and processed a georeferenced panel dataset containing 259,480 observations using **Python and Google Earth Engine**.
 - Collected, processed, and integrated large-scale remote sensing data from **NASA and ESA** satellite imagery through APIs.
-- Applied advanced statistical and econometrictechniques (Staggered DiD) using **Python and R** to estimate the impact of renewable energy infrastructure
+- Applied advanced statistical and econometric techniques (Staggered DiD) using **Python and R**
 
 <br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-111111?style=flat-square&logo=google&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GeoPandas-111111?style=flat-square&logo=pandas&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/R-111111?style=flat-square&logo=r&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Econometrics-111111?style=flat-square" height="20"/>
@@ -101,10 +102,16 @@ Extension of Tauric Research's open-source **TradingAgents** framework, transfor
 </td>
 <td width="50%" valign="top">
 
-### Numerai Crypto <sub>(live)</sub>
-**LightGBM Tournament Model**
+### Numerai Data Science Competition <sub>(live)</sub>
+**Quantitative ML Tournament Model**
 
-End-to-end machine learning pipeline for Numerai's Crypto quantitative tournament: feature engineering (momentum, volatility, RSI, cross-sectional rankings), a date-aware LightGBM regressor, and automated weekly predictions submitted via the Numerai API.
+Participated in Numerai, a global data science tournament where participants build machine learning models to generate predictive signals for financial markets. 
+
+- Developed an ensemble of LightGBM and XGBoost gradient boosting models optimized for large-scale tabular datasets, for financial time-series prediction.
+- Engineered predictive features by applying feature analysis, regularization techniques, and systematic feature selection 
+- Implemented walk-forward cross-validation to simulate real-world forecasting conditions and prevent temporal data leakage.
+- Achieved top-10 ranked model submission among more than 13,000 competing models.
+
 
 <br><br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LightGBM-111111?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Numerai_API-111111?style=flat-square" height="20"/>
