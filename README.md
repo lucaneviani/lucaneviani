@@ -69,10 +69,11 @@ Fine-tuned **Qwen3-ASR (1.7B params)** for the Zindi Google Waxal Challenge, ada
 ### Causal Impact: Satellite Data <sub>(live)</sub>
 **Renewable Energy Plants in Africa**
 
-Designed and deployed an automated geospatial ETL pipeline combining NASA & ESA Earth observation imagery with RePP Africa georeferenced data to isolate the causal environmental and economic footprint of solar and wind power plants.
+Research project developed in collaboration with the University of Padua, investigating the causal environmental and economic impact of solar and wind power plants in Africa. The study combines satellite-based remote sensing data with advanced econometric methods to isolate the causal effect.
 
-- Processed **259,480 panel observations** across 3,992 spatial units (2012–2024) using **Python & Google Earth Engine**.
-- Applied **Callaway & Sant'Anna Doubly Robust Staggered DiD** in R, revealing divergent land cover impacts (solar barren expansion vs. wind landscape restoration).
+- Built and processed a georeferenced panel dataset containing 259,480 observations using **Python and Google Earth Engine**.
+- Collected, processed, and integrated large-scale remote sensing data from **NASA and ESA** satellite imagery through APIs.
+- Applied advanced statistical and econometrictechniques (Staggered DiD) using **Python and R** to estimate the impact of renewable energy infrastructure
 
 <br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-111111?style=flat-square&logo=google&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GeoPandas-111111?style=flat-square&logo=pandas&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/R-111111?style=flat-square&logo=r&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Econometrics-111111?style=flat-square" height="20"/>
