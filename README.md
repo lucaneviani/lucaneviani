@@ -90,7 +90,10 @@ Research project developed in collaboration with the University of Padua, invest
 ### TradingAgents Plus <sub>(live)</sub>
 **Autonomous Multi-Agent Trading System**
 
-Extension of Tauric Research's open-source **TradingAgents** framework, transformed into a fully autonomous, production-grade trading pipeline with daily orchestration, portfolio tracking, real-time risk management, and automated broker execution.
+Extended Tauric Research's open-source TradingAgents framework, where specialized LLM-powered agents collaborate to perform investment research, analyze financial markets, debate alternative strategies, assess risk, and produce investment decisions.
+- Enhanced the framework with a fully autonomous execution pipeline, including scheduled daily analyses, portfolio tracking, real-time risk monitoring, and automated broker execution.
+- Integrated multiple specialized AI agents for fundamental, technical, and sentiment analysis.
+- Designed a modular architecture enabling continuous portfolio management and end-to-end automation, from market research to trade execution.
 
 <br><br>
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/LLM_Agents-111111?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white" height="20"/>
