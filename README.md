@@ -34,7 +34,7 @@ I am currently seeking a **Data Scientist / Business Analyst** role in a dynamic
 
 ---
 
-## // My Projects
+## My Projects
 
 <table width="100%">
 <tr>
@@ -154,15 +154,15 @@ Participated in Numerai, a global data science tournament where participants bui
 </table>
 
 ---
-### // My technical Methodology
+### Technical Methodology
 
 ```mermaid
 flowchart LR
     A["Data Processing & Feature Engineering<br><i>Spatial Panel Data, Time-Series, Audio Preprocessing, APIs</i>"] --> B["Algorithmic Modeling & Causal Inference<br><i>Econometrics, LightGBM, PEFT / LoRA, Multi-Agent Systems</i>"]
-    B --> C["Evaluation & Production Deployment<br><i>Statistical Inference, Backtesting /i>"]
+    B --> C["Evaluation & Production Deployment<br><i>Statistical Inference, Backtesting, FastAPI, Docker /i>"]
 ```
 
-## // Tech Stack & Competencies
+## Tech Stack & Competencies
 
 | Category | Technologies & Tools |
 |---|---|
