@@ -25,7 +25,7 @@ BSc in **Business Administration and Management**, **Ca' Foscari University of V
 
 Quantitative background in economics, advanced econometrics, and causal inference. Over the past two years, my focus has shifted toward **Data Science, Machine Learning, and AI systems**, developing these skills through both academic work and personal projects, research, and real-world applications.
 
-I am a strong believer in learning by doing, focusing on building and deploying end-to-end projects: I am passionate about researching and developing machine learning systems, ranging from LLM and speech model fine-tuning to autonomous agents, causal inference, and scalable data pipelines. 
+I mostly learn by doing, focusing on building and deploying end-to-end projects: I am passionate about researching and developing machine learning systems, ranging from LLM and speech model fine-tuning to autonomous agents, causal inference, and scalable data pipelines. 
 
 My work focuses on understanding complex datasets, developing appropriate modeling approaches, and applying quantitative methods to extract meaningful insights and solve problems.
 
