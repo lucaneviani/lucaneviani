@@ -1,7 +1,7 @@
 <div align="center">
 
 # Luca Neviani
-### Data Scientist
+### In the making
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-000000?style=for-the-badge&border=333333" />
